@@ -1,0 +1,36 @@
+[package]
+name = "bunker"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bunker"
+path = "src/app.rs"
+
+[dependencies]
+chessboard-js = { version = "0.1.0", path = "../rooky/chessboard-js" }
+external = { version = "0.1.0", path = "../rooky/external" }
+gloo = "0.11.0"
+lucide-yew = "1.1.0"
+yew = { version = "0.21.0", features = ["csr"] }
+# futures-util.workspace = true
+yew-router = "0.18.0"
+serde = { version = "1.0.219", features = ["derive"] }
+serde-wasm-bindgen = "0.6.5"
+itertools = "0.14.0"
+serde_json = "1.0.140"
+
+rooky-core = "0.1.0"
+web-sys = { version = "0.3", features = ["HtmlFormElement", "HtmlSelectElement", "RadioNodeList", "TouchList", "Touch", "CssStyleDeclaration", "MediaQueryList"] }
+# nostr-minions.workspace = true
+shady-minions = { path = "./shady-minions" }
+wasm-bindgen = "0.2"
+chrono = "0.4.41"
+pgn-reader = "0.27.0"
+shakmaty = { version = "0.27.2", features = ["variant"] }
+wasm-bindgen-test = "0.3.50"
+wasm-bindgen-futures = "0.4.50"
+nostr-minions = { version = "0.1.18", features = ["ag-grid", "toastify"] }
+futures-util = "0.3.31"
+# wasm-bindgen-futures.workspace = true
+
