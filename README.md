@@ -11,7 +11,7 @@ Rooky Bunker is a open-source platform designed to support players in studying, 
 
 ## 🛠 Tech Stack
 
-Fuente is built using the latest web technologies to ensure performance and scalability:
+Rooky Bunker is built using the latest web technologies to ensure performance and scalability:
 
 - **🦀 Rust** - High-performance, memory-safe programming language [(Download Rust)](https://www.rust-lang.org/learn/get-started)
 - **🌿 Yew** - Rust-based framework for building interactive web apps [(Yew Docs)](https://yew.rs/docs/)
