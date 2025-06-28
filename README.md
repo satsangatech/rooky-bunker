@@ -1,4 +1,4 @@
-Rooky Bunker is a modern, open-source platform designed to help users learn and master chess, whether you're a complete beginner or an advanced player. Featuring interactive lessons, practice tools, and advanced analysis, Rooky Bunker provides a comprehensive and engaging environment for improving your chess skills at any level. ♟️
+Rooky Bunker is a open-source platform designed to support players in studying, annotating, and organizing their chess games. With an intuitive interface and powerful features, it’s the perfect tool for players who want to track progress, build repertoires, and explore games from major platforms. ♟️
 ---
 
 ## 🚀 Features
