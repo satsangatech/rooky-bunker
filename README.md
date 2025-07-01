@@ -5,7 +5,21 @@ Rooky Bunker is a open-source platform designed to support players in studying, 
 
 ✅ **Decentralized & Secure:** Powered by Rust, Yew, and Nostr for speed, security, and resilience.  
 ✅ **Interactive UI:** Styled with TailwindCSS for a sleek and modern interface.
-✅ **Efficient Testing:** Ensured reliability with Rust’s built-in testing framework.  
+✅ **Efficient Testing:** Ensured reliability with Rust’s built-in testing framework.
+
+### App Pages
+
+Rooky Bunker is organized into five primary pages, each serving a specific purpose for chess study and game management:
+
+- **Home:** Displays the total number of games stored in the local database and games currently in the box. Also shows the user's public key and Npub.
+
+- **Annotate:** Provides an interactive game analysis interface with a card on the left that logs each move made during the game and a chessboard on the right to visualize and play through the moves.
+
+- **Repertoire:** Shows a table listing all previously played games.
+
+- **Search:** Enables searching for games across external platforms like Lichess and Chess.com to study them.
+
+- **Settings:** Offers key management options where users can view their cryptographic keys.
 
 ---
 
